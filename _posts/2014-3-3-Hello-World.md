@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: 欢迎来到hereisaclass博客
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+大家好！
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+这是我的博客。
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+如有任何疑问，欢迎添加微信：XXXX 建立联系。
